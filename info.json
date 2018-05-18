@@ -1,0 +1,11 @@
+{
+    "name": "NanobotDeconstructionEmitter",
+    "version": "0.1.0",
+    "title": "Nanobot Deconstruction Emitter",
+    "author": "Asm_Nh",
+    "contact": "",
+    "homepage": "",
+    "factorio_version": "0.16",
+    "dependencies": ["base >= 0.16", "Nanobots >= 2.0"],
+    "description": "This mod adds Nanobot Deconstruction Emitter structure that can be used with Nanobots to serve deconstruction orders in large area. Emitter is single-placement only and picking it up to move is impossible - you'll have to build new one for every time you want to place it down."
+}
